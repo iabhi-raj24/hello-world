@@ -1,0 +1,1 @@
+document.getElementById("root").innerHTML = "This is the word from javascript"
